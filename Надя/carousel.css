@@ -1,0 +1,25 @@
+.content {
+    display: flex;
+    width: 720px;
+    margin: 20px;
+}
+
+img {
+    width: 673px;
+    height: 505px;
+}
+
+button {
+    border-radius: 0;
+    border: none;
+    transition: .7s;
+}
+
+button:hover {
+    background-color: #999999;
+    transition: .7s;
+}
+
+.carousel-item {
+    margin: 0;
+}
